@@ -2,6 +2,8 @@
 // @name         Transmission Quick Sender
 // @namespace    local.leo.transmission
 // @version      0.1.0
+// @downloadURL https://github.com/Leonlima01/TGBMenu/raw/refs/heads/main/main.js
+// @updateURL https://github.com/Leonlima01/TGBMenu/raw/refs/heads/main/main.js
 // @description  Envia magnet links para um servidor Transmission
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
